@@ -1,4 +1,4 @@
-This repository contains the MATLAB codes for the first assignment of MTOE11 - Mathematical Techniques in Materials Research Course, NTI Trichy (VI Sem).
+This repository contains the MATLAB codes for the first assignment of MTOE11 - Mathematical Techniques in Materials Research Course, NIT Trichy (VI Sem).
 
 The contributors to this repository are the members of group 1:
 1. Aniket Poddar - 112119015 
