@@ -3,7 +3,7 @@ This repository contains the MATLAB codes for the first assignment of MTOE11 - M
 The contributors to this repository are the members of group 1:
 1. Aniket Poddar - 112119015 
 2. Anirudh - 112119016
-3. Haeshini - 1121190
+3. Haeshini Jegan - 112119032
 4. Priyanshu - 112119058
 5. Shiddhartha - 112119068
 
